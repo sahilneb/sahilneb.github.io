@@ -1,0 +1,4 @@
+1. Follow https://pages.github.com/
+2. https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll
+3. Install Ruby and Bundler... Prereqs https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll
+4. follow https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll
