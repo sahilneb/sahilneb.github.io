@@ -2,3 +2,16 @@
 2. https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll
 3. Install Ruby and Bundler... Prereqs https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll
 4. follow https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll
+5. At Step7 above I got error. Follow https://talk.jekyllrb.com/t/trouble-creating-a-new-jekyll-site-could-not-locate-gemfile-or-bundle-directory/4399
+6. error with gem github-pages.. follow this https://github.com/prose/starter/issues/44#issuecomment-562822698
+7. Test site locally https://docs.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll
+
+8. Push and browse website
+9. Add content using https://docs.github.com/en/github/working-with-github-pages/adding-content-to-your-github-pages-site-using-jekyll
+
+10. Update minima theme so that you can use dark mode skin https://blog.slowb.ro/dark-theme-for-minima-jekyll/
+Dark mode didnt work.
+Tryied copying midnight theme and copying layouts from minima
+
+11. reverted back to minima. tried adding copy button functionality.following https://www.aleksandrhovhannisyan.com/blog/dev/how-to-add-a-copy-to-clipboard-button-to-your-jekyll-blog/
+
