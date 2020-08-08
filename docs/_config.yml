@@ -35,8 +35,33 @@ theme: minima
 plugins:
   - jekyll-feed
   
-#minima:
-#  skin: dark
+  
+# Comments
+# To enable comments, set the `enabled` field to true and supply either a Disqus short name or a Jekyll comments receiver
+comments:
+#  enabled: true
+#  show_count: true
+  receiver: https://sahilneb-blog.azurewebsites.net/api/PostComment  # See https://haacked.com/archive/2018/06/24/comments-for-jekyll-blogs/ for more information.
+
+emptyArray: [] # Leave this here.
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: pages
+    values:
+      layout: page
+      author: sahilneb
+      commenting: open
+  -
+    scope:
+      path: '_posts'
+      type: posts
+    values:
+      layout: post
+      author: sahilneb
+      commenting: open
 
 # Exclude from processing.
 # The following items will not be processed, by default.
