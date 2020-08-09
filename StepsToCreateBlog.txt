@@ -14,4 +14,12 @@ Dark mode didnt work.
 Tryied copying midnight theme and copying layouts from minima
 
 11. reverted back to minima. tried adding copy button functionality.following https://www.aleksandrhovhannisyan.com/blog/dev/how-to-add-a-copy-to-clipboard-button-to-your-jekyll-blog/
+12. Overriding sass followed: https://github.com/Strangehill/jekyll/blob/8439747fe944932821de5ea556e6be2b426e264d/docs/_docs/themes.md
+
+13. Implement comments system: https://damieng.com/blog/2018/05/28/wordpress-to-jekyll-comments
+https://github.com/damieng/jekyll-blog-comments
+https://github.com/Azure-Functions/jekyll-blog-comments
+
+
+
 
